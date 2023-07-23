@@ -5,7 +5,7 @@
 ### Test locally
 
 ```
-git clone https://github.com/JackLars.github.io/cutspace-project.git
+git clone https://github.com/jacklars.github.io/cutspace-project.git
 ```
 
 Open index.html
