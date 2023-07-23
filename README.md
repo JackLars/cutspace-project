@@ -1,6 +1,6 @@
 # CutSpace Landing Page
 
-###  [**Online demo**](https://JackLars.github.io/cutspace-project/)
+###  [**Online demo**](https://jacklars.github.io/cutspace-project/)
 
 ### Test locally
 
